@@ -10,7 +10,7 @@ import Foundation
 import Combine
 
 /// Your personal key for Yandex.Weather API
-fileprivate let yaKey = "..."
+fileprivate let yaKey = "6abef388-e0b4-4ad2-96aa-4ddf8f4f0414"
 
 enum WeatherAPI {
     
